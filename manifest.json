@@ -1,9 +1,0 @@
-{
-  "name": "RoutineMaxx",
-  "short_name": "RoutineMaxx",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#ffffff",
-  "start_url": ".",
-  "icons": []
-}
